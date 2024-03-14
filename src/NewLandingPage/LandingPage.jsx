@@ -291,7 +291,7 @@ function LandingPage() {
                   setIsLoginOpen(true);
                 }}
               >
-                Signin
+                Sign in
               </h3>
 
               <img
