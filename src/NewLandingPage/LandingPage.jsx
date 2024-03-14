@@ -708,7 +708,7 @@ function LandingPage() {
           <div className="lp5-backed">
             <div>
               <div>
-                &nbsp; Backed By
+                Backed By
                 <img src={line} alt="" />
               </div>
             </div>

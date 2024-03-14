@@ -705,6 +705,7 @@ span {
 .lp5-backed {
   width: 100%;
   height: 50%;
+  border: 2px solid red;
   /* border: 2px solid green; */
 }
 .lp5-backed > div:first-child {
@@ -716,10 +717,11 @@ span {
   /* flex-direction: column; */
   justify-content: center;
   align-items: center;
+  padding-left: 10%;
 }
 
 .lp5-backed > div:first-child > div img {
-  width: 60%;
+  width: 64%;
 }
 .lp5-backed > div:first-child > div {
   width: 25%;
