@@ -855,6 +855,43 @@ span {
     height: 135vh;
   }
 }
+@media only screen and (min-width: 1263px) {
+  .page1-main-content > div:nth-child(2) {
+    /* border: 2px solid pink; */
+    p {
+      line-height: 23.28px;
+    }
+  }
+  .landing-page-2-content > div:nth-child(3) > p {
+    line-height: 23.28px;
+  }
+  .landing-page-4-main > div {
+    p {
+      line-height: 23.28px;
+    }
+  }
+  .lp4-testinomal-main > div:nth-child(5) {
+    height: 23%;
+  }
+  .lp4-testinomal-main > div:nth-child(5) > div:nth-child(2) {
+    width: 70px;
+    height: 70px;
+  }
+  .lp4-testinomal-main > div:nth-child(5) > div:nth-child(1) {
+    width: 60px;
+    height: 60px;
+  }
+  .lp4-testinomal-main > div:nth-child(5) > div:nth-child(3) {
+    width: 60px;
+    height: 60px;
+  }
+  .lp5-backed > div:nth-child(2) > div {
+    height: 62%;
+  }
+  .lp6-main > div > div:nth-child(1) > div:nth-child(2) {
+    line-height: 14px;
+  }
+}
 
 @media only screen and (max-width: 600px) {
   /* .navbar {
