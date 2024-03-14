@@ -855,7 +855,7 @@ span {
     height: 135vh;
   }
 }
-@media only screen and (min-width: 1263px) {
+@media only screen and (width: 1263px) {
   .page1-main-content > div:nth-child(2) {
     /* border: 2px solid pink; */
     p {
